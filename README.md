@@ -9,4 +9,4 @@
     height=auto/>
     email me: sammymcase@gmail.com
     <br>
-    <a href="everyday.html" style="color:yellow">in the meantime</a>
+    <a href="sammymcase22.github.io/everyday" style="color:yellow">in the meantime</a>
