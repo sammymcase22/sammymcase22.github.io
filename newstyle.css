@@ -1,17 +1,5 @@
 body {
-  background-color: White;
-  color: Red;
+  background-color: Red;
+  color: White;
   font-family: Times;
-}
-
-.column {
-  float: left;
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
